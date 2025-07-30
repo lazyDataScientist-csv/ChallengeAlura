@@ -11,6 +11,10 @@ Una aplicación web simple para organizar un sorteo de amigo secreto. Los usuari
 - Visualización de la lista ingresada.
 - Sorteo aleatorio de un nombre.
 - Resultado visible del nombre sorteado.
+- no permite nombres duplicados
+- no se permite sortear sin al menos 1 nombre
+- se agrego el "inputAmigo.focus();" para que ningun nombre quede con espacios
+
 
 ---
 
